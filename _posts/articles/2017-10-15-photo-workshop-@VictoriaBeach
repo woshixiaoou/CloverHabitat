@@ -1,0 +1,24 @@
+ ---
+layout: post
+title: "10/15/2017 Photo Workshop @Victoria Beach"
+excerpt: "Examples and code for displaying images in posts."
+categories: articles
+tags: [post, images, workshop]
+comments: true
+share: true
+modified: 2017-10-22T14:17:50-04:00
+---
+
+Here are some `photos` from our first `Workshop` at Victoria Beach. Mainly focus on the setting sun, ocean in south California and test my 5D Mark IV combine with 24-70mm f2.8 II 
+
+## Figures 
+
+### One Up
+
+<figure>
+    <img src="/images/mmexport1508696872606.jpg" alt="image">
+    <img src="/images/mmexport1508696878116.jpg" alt="image">
+    <img src="/images/mmexport1508696882728.jpg" alt="image">
+    <img src="/images/mmexport1508696886733.jpg" alt="image">
+    <figcaption>Model #WillCai.</figcaption>
+</figure>
