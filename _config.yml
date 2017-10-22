@@ -3,7 +3,7 @@
 title: Clover Habitat
 locale: en_US
 description: My photos need a habitat with clover to replace.
-logo: site-logo.png
+logo: CloverHabitat-Logo.png
 url: https://mmistakes.github.io/so-simple-theme
 
 # Jekyll configuration
@@ -36,22 +36,22 @@ comments: true
 
 # Site owner
 owner:
-  name: Michael Rose
-  avatar: michael-rose-photo.jpg
-  email: michael@mademistakes.com
+  name: woshixiaoou
+  avatar: myprofile.png
+  email: qubeiyin@gmail.com
   disqus-shortname: sosimpletheme
-  twitter: mmistakes
-  facebook: michaelrose
-  github: mmistakes
+  twitter: 
+  facebook: https://www.facebook.com/seth.qu
+  github: woshixiaoou
   stackexchange:
   linkedin:
-  instagram: mmistakes
+  instagram: 
   flickr:
-  tumblr: mademistakes
+  tumblr: 
   pinterest:
   weibo:
   google:
-    plus: MichaelRoseDesign
+    plus: 
     analytics: UA-2011187-2
     verify: UQj93ERU9zgECodaaXgVpkjrFn9UrDMEzVamacSoQ8Y
     ad-client: ca-pub-7328585512091257
