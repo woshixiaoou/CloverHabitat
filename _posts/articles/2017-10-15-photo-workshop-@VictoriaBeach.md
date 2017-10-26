@@ -18,7 +18,7 @@ Here are some `photos` from our first `Workshop` at Victoria Beach. Mainly focus
 <figure>
     <a href="https://c1.staticflickr.com/5/4481/26177036169_27c96e3ba4_b.jpg"><img src="http://farm5.staticflickr.com//4481//26177036169_27c96e3ba4.jpg" alt="image"></a>
     <figcaption>Model #WillCai.</figcaption>
-    <a href="https://c1.staticflickr.com/5/4479/26177035879_1da690401d_b.jpg"><img src="http://http://farm5.staticflickr.com//4479//26177035879_1da690401d_q.jpg"></a>
+    <a href="https://c1.staticflickr.com/5/4479/26177035879_1da690401d_b.jpg"><img src="http://farm5.staticflickr.com//4479//26177035879_1da690401d_q.jpg"></a>
 	<a href="http://farm9.staticflickr.com/8426/7758832526_cc8f681e48_b.jpg"><img src="http://farm9.staticflickr.com/8426/7758832526_cc8f681e48_c.jpg" alt="image"></a>
 	<figcaption><a href="http://www.flickr.com/photos/80901381@N04/7758832526/" title="Morning Fog Emerging From Trees by A Guy Taking Pictures, on Flickr">Morning Fog Emerging From Trees by A Guy Taking Pictures, on Flickr</a>.</figcaption>
 </figure>
