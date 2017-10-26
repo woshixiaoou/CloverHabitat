@@ -5,6 +5,7 @@ locale: en_US
 description: My photos need a habitat with clover to replace.
 logo: CloverHabitat-Logo.PNG
 url: https://woshixiaoou.github.io/blogTutorial
+exclude: ['2014-08-08-hello-world.md']
 
 # Jekyll configuration
 
