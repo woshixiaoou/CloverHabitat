@@ -1,26 +1,24 @@
 ---
 layout: page
-title: About the Jekyll Theme
+title: About Clover Habitat
 excerpt: "So Simple is a responsive Jekyll theme for your words and images."
-modified: 2014-08-08T19:44:38.564948-04:00
+modified: 2017-10-27T19:44:38.564948-04:00
 image:
   feature: so-simple-sample-image-4.jpg
   credit: WeGraphics
   creditlink: http://wegraphics.net/downloads/free-ultimate-blurred-background-pack/
 ---
 
-Looking for a simple, responsive, theme for your Jekyll powered blog? Well look no further. Here be **So Simple Theme**, the follow up to [**Minimal Mistakes**](http://mmistakes.github.io/minimal-mistakes) --- by designer slash illustrator [Michael Rose](http://mademistakes.com).
+This is a simple, responsive place to hold all my sentiment also share with people who care. The Blog divided to several tags **ABOUT**, **ARTICLES**, **BLOG**, **SEARCH** --- by designer woshixiaoou.
 
-## So Simple Theme is all about:
+## Clover Habitat is all about:
 
-* Responsive templates. Looking good on mobile, tablet, and desktop.
+* Responsive and Looking good on mobile, tablet, and desktop.
 * Gracefully degrading in older browsers. Compatible with Internet Explorer 9+ and all modern browsers.
-* Minimal embellishments and subtle animations.
+* Use **SEARCH** to find pages you may like. All articles follow title format Mon/Date/Year Content @Place, such as 10/15/2017 Photo Workshop @Victoria Beach
 * Optional large feature images for posts and pages.
-* [Custom 404 page]({{ site.url }}/404.html) to get you started.
-* [Simple site search](https://github.com/christian-fei/Simple-Jekyll-Search)
 * Support for Disqus Comments
 
-<a markdown="0" href="{{ site.url }}/theme-setup" class="btn">Install So Simple Theme</a>
+<a markdown="0" href="https://www.flickr.com/photos/153570154@N08/" class="btn">My Flickr Photostream</a>
 
 [^1]: Example: *domain.com/category-name/post-title*
