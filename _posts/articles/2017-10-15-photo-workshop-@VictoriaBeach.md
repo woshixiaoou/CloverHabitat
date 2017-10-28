@@ -4,7 +4,7 @@ title: 10/15/2017 Photo Workshop @Victoria Beach
 excerpt: "Workshop photots submit."
 modified: 2017-10-25T14:17:25-04:00
 categories: articles
-tags: [sample-post]
+tags: [ARTICLES]
 comments: true
 share: true
 ---
