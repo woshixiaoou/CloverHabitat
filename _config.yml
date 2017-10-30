@@ -4,7 +4,7 @@ title: Clover Habitat
 locale: en_US
 description: My photos need a habitat with clover to place.
 logo: CloverHabitat-Logo.PNG
-url: /blogTutorial
+url: /CloverHabitat
 exclude: ['2014-08-08-hello-world.md']
 
 # Jekyll configuration
