@@ -20,4 +20,5 @@ Here are some `photos` from our first `Workshop` at Victoria Beach. Mainly focus
     <figcaption>Model #WillCai.</figcaption>
     <a href="https://c1.staticflickr.com/5/4479/26177035879_1da690401d_b.jpg"><img src="https://c1.staticflickr.com/5/4479/26177035879_1da690401d_b.jpg"></a>
     <a href="https://c1.staticflickr.com/5/4506/37899241126_fbc5febefd_b.jpg"><img src="https://c1.staticflickr.com/5/4506/37899241126_fbc5febefd_b.jpg"></a>
+    <a href="https://c1.staticflickr.com/5/4497/37921866062_1940d54ab2_b.jpg"><img src="https://c1.staticflickr.com/5/4497/37921866062_1940d54ab2_b.jpg"></a>
 </figure>
