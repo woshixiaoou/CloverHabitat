@@ -16,13 +16,12 @@ Here are some `photos` from our 2nd `Workshop` at Jeffrey Pedestrian Bridge, Irv
 ### Two Up
 
 <figure class="half">
-	<a href="https://c1.staticflickr.com/5/4456/37899226856_2f17c40e64_b.jpg"><img src="https://c1.staticflickr.com/5/4456/37899226856_2f17c40e64_b.jpg" alt="image"></a>
-    <a href="https://c1.staticflickr.com/5/4454/37899224766_557e8b44c2_b.jpg"><img src="https://c1.staticflickr.com/5/4454/37899224766_557e8b44c2_b.jpg"></a>
-    <a href="https://c1.staticflickr.com/5/4511/37952481511_4d307ef886_b.jpg"><img src="https://c1.staticflickr.com/5/4511/37952481511_4d307ef886_b.jpg"></a>
-    <a href="https://c1.staticflickr.com/5/4457/37952479211_269391dc6f_b.jpg"><img src="https://c1.staticflickr.com/5/4457/37952479211_269391dc6f_b.jpg"></a>
-    <a href="https://c1.staticflickr.com/5/4493/37899234886_15920d5b8c_b.jpg"><img src="https://c1.staticflickr.com/5/4493/37899234886_15920d5b8c_b.jpg"></a>
-    <a href="https://c1.staticflickr.com/5/4487/26177026459_2b82523e3f_b.jpg"><img src="https://c1.staticflickr.com/5/4487/26177026459_2b82523e3f_b.jpg"></a>
+	<a data-flickr-embed="true" data-context="true"  href="https://www.flickr.com/photos/153570154@N08/37899226856/in/dateposted-public/" title="EB2A0455_E"><img src="https://farm5.staticflickr.com/4456/37899226856_7dd92fead5_k.jpg" width="2048" height="1365" alt="EB2A0455_E"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+	<a data-flickr-embed="true" data-context="true"  href="https://www.flickr.com/photos/153570154@N08/37899224766/in/dateposted-public/" title="EB2A0450_E"><img src="https://farm5.staticflickr.com/4454/37899224766_e3ffa3eb03_k.jpg" width="2048" height="1365" alt="EB2A0450_E"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+    <a data-flickr-embed="true" data-context="true"  href="https://www.flickr.com/photos/153570154@N08/37952481511/in/dateposted-public/" title="EB2A0448_E"><img src="https://farm5.staticflickr.com/4511/37952481511_c15ea9164a_k.jpg" width="2048" height="1365" alt="EB2A0448_E"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+    <a data-flickr-embed="true" data-context="true"  href="https://www.flickr.com/photos/153570154@N08/37952479211/in/dateposted-public/" title="EB2A0451_E"><img src="https://farm5.staticflickr.com/4457/37952479211_a0259d9afb_k.jpg" width="2048" height="1365" alt="EB2A0451_E"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+    <a data-flickr-embed="true" data-context="true"  href="https://www.flickr.com/photos/153570154@N08/37899234886/in/dateposted-public/" title="EB2A0490_E"><img src="https://farm5.staticflickr.com/4493/37899234886_fccce1e01d_k.jpg" width="2048" height="1365" alt="EB2A0490_E"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+    <a data-flickr-embed="true" data-context="true"  href="https://www.flickr.com/photos/153570154@N08/26177026459/in/dateposted-public/" title="EB2A0487_E"><img src="https://farm5.staticflickr.com/4487/26177026459_36bd7a40a4_k.jpg" width="2048" height="1365" alt="EB2A0487_E"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
     <figcaption>#Model WillCai #Model XiaoTu</figcaption>
-    <a href="https://farm5.staticflickr.com/4493/37899234886_fccce1e01d_k.jpg"><img src="https://farm5.staticflickr.com/4493/37899234886_fccce1e01d_k.jpg" alt="EB2A0490_E"></a>
 </figure>
 
