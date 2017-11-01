@@ -23,6 +23,6 @@ Here are some `photos` from our 2nd `Workshop` at Jeffrey Pedestrian Bridge, Irv
     <a href="https://c1.staticflickr.com/5/4493/37899234886_15920d5b8c_b.jpg"><img src="https://c1.staticflickr.com/5/4493/37899234886_15920d5b8c_b.jpg"></a>
     <a href="https://c1.staticflickr.com/5/4487/26177026459_2b82523e3f_b.jpg"><img src="https://c1.staticflickr.com/5/4487/26177026459_2b82523e3f_b.jpg"></a>
     <figcaption>#Model WillCai #Model XiaoTu</figcaption>
-    <a href="https://www.flickr.com/photos/153570154@N08/37899234886/in/dateposted-public/"><img src="https://farm5.staticflickr.com/4493/37899234886_fccce1e01d_k.jpg" width="2048" height="1365" alt="EB2A0490_E"></a>
+    <a href="https://c1.staticflickr.com/5/4493/37899234886_15920d5b8c_b.jpg"><img src="https://farm5.staticflickr.com/4493/37899234886_fccce1e01d_k.jpg" alt="EB2A0490_E"></a>
 </figure>
 
