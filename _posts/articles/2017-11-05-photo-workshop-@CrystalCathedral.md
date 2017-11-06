@@ -18,6 +18,6 @@ Here are some `photos` from my 3rd `Workshop` at CrystalCathedral, Irvine. 5D Ma
 <figure>
 	<a href="https://farm5.staticflickr.com/4523/38173844802_a633fcf03c_o.jpg"><img src="https://farm5.staticflickr.com/4523/38173844802_a633fcf03c_o.jpg" width="4480" height="6720" alt="EB2A0519_E"></a><">
 	<a href="https://farm5.staticflickr.com/4579/38205927581_0227241930_o.jpg"><img src="https://farm5.staticflickr.com/4579/38205927581_0227241930_o.jpg" width="6552" height="4368" alt="EB2A0569_E"></a>
-	<a href="https://farm5.staticflickr.com/4533/26429452429_ae3cdabe46_o.jpg"><img src="https://farm5.staticflickr.com/4533/26429452429_ae3cdabe46_o.jpg" width="6720" height="4480" alt="EB2A0504_EE"></a>
+	<a href="https://farm5.staticflickr.com/4453/37495846654_552ccb590d_o.jpg" "><img src="https://farm5.staticflickr.com/4453/37495846654_552ccb590d_o.jpg" width="6720" height="4480" alt="EB2A0505_EEE"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 </figure>
 
